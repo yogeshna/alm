@@ -1,1 +1,1 @@
-This is sample jabva application
+This is sample java application
